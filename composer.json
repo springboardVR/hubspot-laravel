@@ -1,5 +1,5 @@
 {
-    "name": "springboard-vr/hubspot-laravel",
+    "name": "springboardvr/hubspot-laravel",
     "description": "HubSpot API wrapper for Laravel 5.5+.",
     "keywords": ["hubspot", "laravel", "php"],
     "license": "MIT",
